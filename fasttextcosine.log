@@ -1,0 +1,74 @@
+ERROR:root:completefasttext9(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:completefasttext9(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:completefasttext9(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:dynamic adjusted rand score0.135419447254482
+ERROR:root:dynamic purity score0.8489293047814609
+ERROR:root:dynamic silhouette score0.019985046408881314
+ERROR:root:dynamic adjusted mutual info score0.5061008493750153
+ERROR:root:dynamic Fowlkes-Mallows scores score0.2653422601411788
+ERROR:root:averagefasttext9(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:dynamic adjusted rand score0.292455307552218
+ERROR:root:dynamic purity score0.8855969492519801
+ERROR:root:dynamic silhouette score0.046567026850477415
+ERROR:root:dynamic adjusted mutual info score0.5930352256730865
+ERROR:root:dynamic Fowlkes-Mallows scores score0.4105132089175133
+ERROR:root:singlefasttext9(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:averagefasttext10(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:averagefasttext10(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:averagefasttext4(0_647)(648_795)
+ERROR:root:dynamic adjusted rand score0.06723778349760828
+ERROR:root:dynamic purity score0.9912060301507538
+ERROR:root:dynamic silhouette score0.04336101372386634
+ERROR:root:dynamic adjusted mutual info score0.28827037311865605
+ERROR:root:dynamic Fowlkes-Mallows scores score0.32927385799860814
+ERROR:root:averagefasttext11(0_647)(648_795)(796_1245)(1246_1394)(1395_1762)(1763_1991)(1992_2449)(2450_2806)(2807_3408)
+ERROR:root:dynamic adjusted rand score0.292455307552218
+ERROR:root:dynamic purity score0.8855969492519801
+ERROR:root:dynamic silhouette score0.046567026850477415
+ERROR:root:dynamic adjusted mutual info score0.5930352256730865
+ERROR:root:dynamic Fowlkes-Mallows scores score0.4105132089175133
+ERROR:root:averagefasttext23(0_21)(22_152)(153_191)(192_248)(249_365)(366_414)(415_484)(485_489)(490_512)(513_547)(548_550)(551_610)(611_667)(668_692)(693_700)(701_747)(748_759)(760_793)(794_809)(810_917)(918_957)(958_1003)
+ERROR:root:dynamic adjusted rand score0.4957033460025666
+ERROR:root:dynamic purity score0.6583665338645418
+ERROR:root:dynamic silhouette score0.10343648554000132
+ERROR:root:dynamic adjusted mutual info score0.6475122286897282
+ERROR:root:dynamic Fowlkes-Mallows scores score0.5307803214967657
+ERROR:root:averagefasttext23(0_21)(22_152)(153_191)(192_248)(249_365)(366_414)(415_484)(485_489)(490_512)(513_547)(548_550)(551_610)(611_667)(668_692)(693_700)(701_747)(748_759)(760_793)(794_809)(810_917)(918_957)(958_1003)
+ERROR:root:adjusted rand score0.00010526203317761926
+ERROR:root:purity score0.13147410358565736
+ERROR:root:silhouette score0.475159985700729
+ERROR:root: adjusted mutual info score0.00017221785881672066
+ERROR:root:Fowlkes-Mallows scores score0.2652093839287152
+ERROR:root:dynamic adjusted rand score0.4957033460025666
+ERROR:root:dynamic purity score0.6583665338645418
+ERROR:root:dynamic silhouette score0.10343648554000132
+ERROR:root:dynamic adjusted mutual info score0.6475122286897282
+ERROR:root:dynamic Fowlkes-Mallows scores score0.5307803214967657
+ERROR:root:averagefasttext23(0_21)(22_152)(153_191)(192_248)(249_365)(366_414)(415_484)(485_489)(490_512)(513_547)(548_550)(551_610)(611_667)(668_692)(693_700)(701_747)(748_759)(760_793)(794_809)(810_917)(918_957)(958_1003)
+ERROR:root:adjusted rand score0.00010526203317761926
+ERROR:root:purity score0.13147410358565736
+ERROR:root:silhouette score0.475159985700729
+ERROR:root: adjusted mutual info score0.00017221785881672066
+ERROR:root:Fowlkes-Mallows scores score0.2652093839287152
+ERROR:root:dynamic adjusted rand score0.4957033460025666
+ERROR:root:dynamic purity score0.6583665338645418
+ERROR:root:dynamic silhouette score0.10343648554000132
+ERROR:root:dynamic adjusted mutual info score0.6475122286897282
+ERROR:root:dynamic Fowlkes-Mallows scores score0.5307803214967657
+ERROR:root:averagefasttext24(0_21)(22_152)(153_191)(192_248)(249_365)(366_414)(415_484)(485_489)(490_512)(513_547)(548_550)(551_610)(611_667)(668_692)(693_700)(701_747)(748_759)(760_793)(794_809)(810_917)(918_957)(958_1003)
+ERROR:root:adjusted rand score0.00010526203317761926
+ERROR:root:purity score0.13147410358565736
+ERROR:root:silhouette score0.475159985700729
+ERROR:root: adjusted mutual info score0.00017221785881672066
+ERROR:root:Fowlkes-Mallows scores score0.2652093839287152
+ERROR:root:dynamic adjusted rand score0.4957033460025666
+ERROR:root:dynamic purity score0.6583665338645418
+ERROR:root:dynamic silhouette score0.10343648554000132
+ERROR:root:dynamic adjusted mutual info score0.6475122286897282
+ERROR:root:dynamic Fowlkes-Mallows scores score0.5307803214967657
+ERROR:root:averagefasttext24(0_21)(22_152)(153_191)(192_248)(249_365)(366_414)(415_484)(485_489)(490_512)(513_547)(548_550)(551_610)(611_667)(668_692)(693_700)(701_747)(748_759)(760_793)(794_809)(810_917)(918_957)(958_1003)
+ERROR:root:dynamic adjusted rand score0.49570334600256666
+ERROR:root:dynamic purity score0.6583665338645418
+ERROR:root:dynamic silhouette score0.10343648554000132
+ERROR:root:dynamic adjusted mutual info score0.6475122286897285
+ERROR:root:dynamic Fowlkes-Mallows scores score0.5307803214967657
